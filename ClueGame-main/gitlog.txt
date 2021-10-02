@@ -1,0 +1,553 @@
+commit e52f6a07a34a6d6bd95b3c60e4dae8761776ac1a
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Apr 14 23:47:10 2021 -0600
+
+    Commented boardClicked method.
+
+commit f00c2a44901227def8b5c72122c6e298c1d840bb
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Apr 14 22:44:36 2021 -0600
+
+    Changed mouse click event to work on e.get instead of point values to reduce error messaging.
+
+commit 548d2ba7646a15fe1db236eac939e142e8c1586a
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Wed Apr 14 22:06:33 2021 -0600
+
+    added player movement and restricted the next button until the human player is finished
+
+commit 3f847372caafdd2c6af34e934c03321b124c4740
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Apr 12 23:00:42 2021 -0600
+
+    added gridlines to board
+
+commit 8c1105881c2266e24b4bea03dfaabd98654db84f
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Mon Apr 12 15:13:51 2021 -0600
+
+    Updated button next functionality and defined player vs computer turns.  Also included target printing on board for human player.
+
+commit 94cf1eb0415e74d98c1a624578e2942fb6b66b83
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Apr 12 01:38:34 2021 -0600
+
+    merge conflicts
+
+commit 78be0d18696241c9af2b4eec6e1c4c49a8615e04
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Apr 12 01:30:31 2021 -0600
+
+    got actionListener to work for NextButton
+
+commit c6a18d96d3de756ef8497736a9f5fbc020e6bbf6
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Sun Apr 11 22:39:53 2021 -0600
+
+    added splash screen
+
+commit 1acb52101eda4b6818039d64af90d13f2b3d17a4
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Sat Apr 10 21:03:21 2021 -0600
+
+    merge conflicts
+
+commit 1bdaf3de26f65f8ac1a8f1418c098ebf77c59e11
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Apr 9 23:54:07 2021 -0600
+
+    Working ClueGame.java!
+
+commit 3370f0d0c42d31ce4f9979a26597b7ad9680d0fc
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Apr 9 23:44:16 2021 -0600
+
+    Board is printing!
+
+commit 9092100fc0f1c8c280ba3ada96de6cd09d0c0434
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Apr 9 22:38:27 2021 -0600
+
+    got one thing added to panel
+
+commit eb307236977dfe59921a426d4ef9a82f0e30e105
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Apr 9 21:47:52 2021 -0600
+
+    added more draw stuff to classes
+
+commit c5921771b4b06691e275d5861e0497d8de4ae0af
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Apr 9 19:28:43 2021 -0600
+
+    added draw method
+
+commit 346ef94e69940babf73db468eecc3a38c738ef5e
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Apr 9 15:10:50 2021 -0600
+
+    Updated BoardPanel.
+
+commit d54eb6cfdd6d9495f950cd9dceebdc3dd3cf5b07
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Apr 9 14:55:41 2021 -0600
+
+    Untested: Added Board's paintComponent() method, an unfinished BoardCell draw() method, and Player draw() method.
+
+commit ff235f4a4484e36e89832d38e23ad40ccc120c8b
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Apr 9 14:55:26 2021 -0600
+
+    Untested: Added Board's paintComponent() method, an unfinished BoardCell draw() method, and Player draw() method.
+
+commit 81bc4408b59383d71dbc8fe655f1f4225341ff48
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Wed Apr 7 03:45:21 2021 -0600
+
+    C21A-2 Ready for turn in
+
+commit e423319a6270cb7579607a49bc7f23d53cf8d276
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Apr 7 00:42:42 2021 -0600
+
+    Further refactoring on CardPanel and added Known Cards title panel.
+
+commit ffd97ad2e66b29b4678f06871fd5f8effcc556f2
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Apr 7 00:25:57 2021 -0600
+
+    REformatted the cardPanel GUI and made the seen cards change color to show which player revealed them.
+
+commit 177f1e1b6eca44e77aac93cd3c6f84b552d99110
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Tue Apr 6 17:57:07 2021 -0600
+
+    Moved everything related to cardPanel to its own class.
+
+commit cc9214927ba930d4a918eb77d4536864f1ba6234
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Tue Apr 6 16:36:04 2021 -0600
+
+    Driver: Logan Hsia, Navigator: Mhba.  Added Known Card panel.
+
+commit 59ef6a1f31ecdf013c5643778b45d37188ae99b9
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Apr 5 00:38:11 2021 -0600
+
+    added comments and refactored
+
+commit 1f3ff77ff65ba996f588ae20ae3312d43cbb36d4
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Apr 5 00:10:51 2021 -0600
+
+    Driver: Logan, added the functionality for setting the text and reformatted the GUI window
+
+commit 53fc80df24e40bf9a9ecbac5fb9ce7b02313191f
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Sun Apr 4 23:58:12 2021 -0600
+
+    Driver: Mhba, finished the GUI and now working on being bale to update the text fields
+
+commit 5baabf5b4c38280621c27ab1a92727290203fb2e
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Sun Apr 4 23:55:22 2021 -0600
+
+    Driver: Mhba, finished the GUI and now working on being bale to update the text fields
+
+commit c375a69e58ba7c6fa58056576d8b41d76a0b2e40
+Merge: 760816f a71ccfa
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Sun Apr 4 18:40:53 2021 -0600
+
+    Merge handling
+
+commit 760816fd61791899bc6740b1116888102f570358
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Sun Apr 4 18:34:53 2021 -0600
+
+    saving for merge
+
+commit a71ccfac5210fcca4800f60622f7582855ce0b55
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Mon Mar 29 00:27:36 2021 -0600
+
+    Driver: Mhba, Navigator: Logan.  All UnitTests passgit log > gitlog.txt
+
+commit c4f825ee75968a123cd0fb93d09614d658c1b1c2
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Sun Mar 28 23:50:44 2021 -0600
+
+    Driver: Logan. Navigator: Mhba.  ComputerAI tests pass (given rand isn't very unlucky).
+
+commit 3979cd151b4856847b614c01b80578a9a8d2d4b1
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Sun Mar 28 23:28:29 2021 -0600
+
+    For re-pull.
+
+commit eb1311a9713f563bb845249ed5c171d519e51a95
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Sun Mar 28 22:33:21 2021 -0600
+
+    Driver: Logan Hsia, Navigator: Mhba.  Added functionality code for checkAccusation, handleSuggestion, disproveSuggestion, createSuggestion, selectTargets.
+
+commit 54de9a8915e6490c3c6dcb45f985e0dc784404fa
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Mar 26 03:10:18 2021 -0600
+
+    Ignore
+
+commit 9270b65c14994fd7b3af2b463925fd5632a8471a
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Thu Mar 25 08:58:41 2021 -0600
+
+    finished writing both test files and will review them at a later time
+
+commit d32b0f492e42619b7c24994e630f47780f1802a7
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Thu Mar 25 04:08:45 2021 -0600
+
+    Wrote one test for checkAccusation
+
+commit ed1b31834876c417f8cbad25004502be63aa800c
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Mar 22 21:35:14 2021 -0600
+
+    added comments
+
+commit c0ad804c2a5e4c8f63c8d332ced5d849039c90ee
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Mar 22 17:45:09 2021 -0600
+
+    Finished writing the code functionality for all of the tests and all my tests passcd ClueGame
+
+commit 1b16bede118f03266bbf614bc8101d56d6818698
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Mar 22 06:33:54 2021 -0600
+
+    just wrote the functionality to get two tests to pass
+
+commit 93f7645a048495ddc388920d6bb3dcb0d93b6699
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Mar 22 05:48:31 2021 -0600
+
+    almost done reading in players
+
+commit 5fe9e7f63891d186b786a1adedde85a23729996f
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Sun Mar 21 22:28:03 2021 -0600
+
+    Driver: Logan, Navigator: Mhba, pushing up final version after slight code reformat
+
+commit 09d6c59173f711b08bfb8ba08304b301b4c9b180
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Sun Mar 21 22:23:51 2021 -0600
+
+    Driver: Logan, Navigator: Mhba, Created the unit tests for gameSetupTests.java and made extra method stubs for supporting methods that will be needed for testing.  Also commented out the throw BadConfigFormatException until we deal with reading in Players and Weapons.  One unit tests is throwing an error because it doesn't like that the method stub's arrayList is empty when I am indexing in the unit test.  IndexOutOfBoundsExceptions of course.
+
+commit b4677b3bc1d4ad7f59a3c440857cc490366e19e1
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Sun Mar 21 22:21:37 2021 -0600
+
+    Driver: Logan, Navigator: Mhba, Created the unit tests for gameSetupTests.java and made extra method stubs for supporting methods that will be needed for testing.  Also commented out the throw BadConfigFormatException until we deal with reading in Players and Weapons.  One unit tests is throwing an error because it doesn't like that the method stub's arrayList is empty when I am indexing in the unit test.  IndexOutOfBoundsExceptions of course.
+
+commit 42439fae31052f19a743fed1e1afc2b032b988fa
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Sun Mar 21 21:42:06 2021 -0600
+
+    Driver: Logan, Navigator: Mhba, Created skeleton classes for Player, HumanPlayer ComputerPlayer, Card, and the enum CardType.  Also created the @BeforeAll for the gameSetupTests.java.
+
+commit 7cb2b2ebf9c1d5b3dac0e0ed3a69eb9272d49484
+Author: Mhba Nabhan <mnabhan@mymail.mines.edu>
+Date:   Sun Mar 21 20:52:09 2021 -0600
+
+    Added the UML classes
+
+commit f02ecc2d4bd8b5dfe364542e00b11811a2f08690
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Mar 17 23:08:00 2021 -0600
+
+    Driver: Logan, Navigator: Mhba, made the values of rows and columns constantly being calculated in getAdjList for adding adjacent walkways, into variables rowBelow, rowAbove, colLeft, and colRight.
+
+commit e26cd5998be21374bcbf0f91e22d064c0fbdec2b
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Mar 17 23:07:52 2021 -0600
+
+    Driver: Logan, Navigator: Mhba, made the values of rows and columns constantly being calculated in getAdjList for adding adjacent walkways, into variables rowBelow, rowAbove, colLeft, and colRight.
+
+commit d0743eacbdeffb915ca89818bb50b42e918c2e77
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Mar 17 22:59:37 2021 -0600
+
+    Driver:Logan Navigator: Mhba, refactoring: added comments to explain how our Board.java creates its adjacency lists for its BoardCells.
+
+commit b48e94b4819dd496794109e3071c678e49e25203
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Mar 17 22:06:38 2021 -0600
+
+    Driver:Logan Navigator: Mhba, refactoring: added comments to explain how our loadSetupConfig method reads in the file, parses the lines by commas, and sets our roomMap with room character - room object pairs.
+
+commit e6e1d548ae5fef7d3fd66a13f80cf473bdc93285
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Mar 17 22:01:38 2021 -0600
+
+    Driver:Logan Navigator: Mhba, refactoring: added comments to explain how our getSizeFromFile method sets our rows and cols values.
+
+commit 36ae9ee479ece7b34d0a8499afffa670a54ec109
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Mar 17 21:59:08 2021 -0600
+
+    Driver:Logan Navigator: Mhba, refactoring: removed hard coding the datapath for setConfigFiles and made it a variable in the method.
+
+commit 21ec43d3fc7c55bc51b00786745a7919b09b86ef
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Tue Mar 16 18:13:20 2021 -0600
+
+    Removed all warnings in Room, BoardCell and DoorDirection Classes, only 2 warnings remain in the Board Class but they have also been handled
+
+commit 78ae1d35bc377d8343881465396c8eb926736d83
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Tue Mar 16 17:57:53 2021 -0600
+
+    Removed mthods that were unused or redundent in our BoardCell Class
+
+commit 286a79f9337d9aca6aea1484e5752c1ee7cc147b
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Tue Mar 16 17:54:47 2021 -0600
+
+    Removed warnings in Board class
+
+commit c19a76a1ed66362a86a8a0c73bcd2c0060a9bfad
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Tue Mar 16 17:44:06 2021 -0600
+
+    Removed unused imports and unused variables
+
+commit b8584ee2c3a0e0ae1b0e7a40a0022d5387b105d9
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Mar 10 21:44:44 2021 -0700
+
+    Added some comments to the calcTargets and recursiveTargets code.
+
+commit 91c2d179ece525f63eda0824bcde6947a9ff281a
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Mar 10 21:07:09 2021 -0700
+
+    Driver: Logan, Navigator: Mhba.  Finished the calcTargets functionality and got the tests to pass.
+
+commit 6af97d249dedf2e52a1fa83ec0b473e4a33d51ca
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Mar 10 15:07:25 2021 -0700
+
+    Driver: Logan, Navigator: Mhba.  Added non-functional calcTargets and getTargets code.
+
+commit 22f6fd107862f50cb0f901c1dd3c45c0decea472
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Tue Mar 9 22:26:51 2021 -0700
+
+    Driver: Mhba, Navigator: Logan, We have finished writing all of the code to generate our adjacency lists
+
+commit 7fc9e93cef558f96304260ca5b3ead47e2b6050b
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Sat Mar 6 01:56:09 2021 -0700
+
+    I am displeased with github.
+
+commit 669e56b96c6b0e0de4da9b44ba3e1ef4c3bcf99e
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Sat Mar 6 01:13:36 2021 -0700
+
+    Driver: Mhba, Navigator: Logan.  Double checked and added tests to match rubric requirements.
+
+commit 493eb52b1fdaec1bc78f619a17d3d2510473195b
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Sat Mar 6 00:48:40 2021 -0700
+
+    Driver: Logan, Navigator: Mhba. Finished the occupiedTests.
+
+commit 9d2698d015412b17d6f35d2e21f97b989b547224
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Mar 5 23:58:40 2021 -0700
+
+    Driver: Mhba, Navigator: Logan. Added Unit Testing for Board except testingOccupied.
+
+commit 9d8dc0850e8c71182cef22417cd83e1310292e79
+Merge: 509ad27 d803518
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Mar 5 22:16:45 2021 -0700
+
+    Done with assignment 1
+
+commit 509ad27a85887e612c9d4eb29af8008d6492e0e5
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Mar 5 22:05:05 2021 -0700
+
+    issue with recording refactored code, some changes were lost but the gitrefactored.txt file is complete
+
+commit d8035186f661e05b4d307e056eb8c319272e788d
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Mar 5 21:02:59 2021 -0700
+
+    Driver: Logan, Navigator: Mhba.  Refactored.
+
+commit a6002e7c35586b54c0ca68670e1b5279d7fab4fc
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Mar 5 20:20:21 2021 -0700
+
+    Driver: Logan Hsia, Navigator: Mhba.  Reverted to non-refactored code.
+
+commit 26eddf9a3be5086a5d475e1d4de5ce81345331df
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Mar 5 20:16:01 2021 -0700
+
+    Driver: Logan Hsia, Navigator: Mhba.  Refactored the code.
+
+commit 0625a70b2480c2cc0521ebc8a5c7a83995ae034a
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Mar 5 19:59:25 2021 -0700
+
+    Driver: Logan, Navigator: Mhba.  Unit Tests pass.
+
+commit f8c18c575b4dc914059d195eb86512fa0143892b
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Mar 5 18:29:19 2021 -0700
+
+    debugging
+
+commit cf5ff0f6f527c7cc1a8748363e40366c43867637
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Mar 5 17:37:41 2021 -0700
+
+    tests pass indivually but not together
+
+commit 2c88c1e4062e87a65926d9c00d954919dbc450e4
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Mar 5 04:20:30 2021 -0700
+
+    All tests pass successfully
+
+commit 0bf1f2cc5448808392704c427342d870c9419a18
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Mar 5 02:13:26 2021 -0700
+
+    Nagivator: Mhba, Driver Logan, working on junit tests passing
+
+commit 6c5cccbf92b41dc4c6866517f5ed80bceebe5572
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Mar 5 01:03:58 2021 -0700
+
+    Driver: Logan, Navigator: Mhba.  Wrote failing functionality.
+
+commit 089361fe156406dbacc8ef54ec5a409dd9cbfe01
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Thu Mar 4 18:18:00 2021 -0700
+
+    setting up the board with the csv file
+
+commit bd887337b942101e0f055e5c38252340b8b04bc0
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Wed Mar 3 01:38:22 2021 -0700
+
+    Driver: Logan Hsia, Navigator: Mhba Nabhan.  Filled in all the stub methods except LoadLayoutConfig().
+
+commit d8eb161e8c9a20808eecff0b44a36f182a1b736a
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Tue Mar 2 18:23:05 2021 -0700
+
+    Starting C14A
+
+commit 1bc11cc9c3b5c253cf659a48959bad0d5fc6663c
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Mar 1 22:02:26 2021 -0700
+
+    Added finishing touches and commenting
+
+commit 61e14a9fc5856679ea293995035636e469727358
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Mon Mar 1 21:22:48 2021 -0700
+
+    Driver: Mhba, Navigator: Logan, finished writing all required tests and all tests fail not error
+
+commit 9e7bc96c39ad14721dd8e02f706ec8af7eb11529
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Mon Mar 1 18:50:01 2021 -0700
+
+    Driver: Logan Hsia, Navigator: Mhba Nabhan. Created class stubs and started FileInitTest.java
+
+commit eeffac9114ee2d6a59399a0fa765e46f1b546813
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Mon Mar 1 17:09:49 2021 -0700
+
+    Driver: Logan Hsia, Navigator: Mhba Nabhan.  Added Class stubs and started FileInitTest
+
+commit de5a9b542dba7f6719331071f781b54aec7c84f0
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Sun Feb 28 20:09:21 2021 -0700
+
+    Cleaned Up pt2
+
+commit 615dd4b0a1805a1c63b6d070850bfae72ddfa9b2
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Sun Feb 28 20:04:14 2021 -0700
+
+    Cleaned Up
+
+commit 0cdadd5a7a0d62d7789858cc26264085ad003426
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Sun Feb 28 20:02:09 2021 -0700
+
+    We have resolved our code so that all 10 tests pass successfully! Navigator: Mhba, Driver: Logan
+
+commit f9f429c27a3f715574c9ab84b5c77f17a89eb02e
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Sun Feb 28 17:01:51 2021 -0700
+
+    Starting C13A-CluePaths 2. Driver: Mhba, Navigator:Logan
+
+commit e5931fd30af93239747ec4e8e8c2bebdb3872e35
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Feb 26 18:14:05 2021 -0700
+
+    Commenting
+
+commit 7ad9053be58676893f919cb1bd5b0058b5d34079
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Feb 26 18:04:14 2021 -0700
+
+    Driver: Logan, Navigator: Mhba, Done
+
+commit 6b2ace7f698aab61e8c344e143753b7b04ae0352
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Feb 26 15:19:09 2021 -0700
+
+    Driver: Mhba, Navigator: Logan. We have written all of the adjacency test code
+
+commit b0e79053974791dc8eb08c31b88b8eec3fe00043
+Author: mhbanabhan <mnabhan@mymail.mines.edu>
+Date:   Fri Feb 26 14:44:05 2021 -0700
+
+    Driver: Mhba, Navigator: Logan. We have written all of the adjacency test code, testing values in the top left corner, the bottom right corner, a right edge, and a left edge
+
+commit f2b543a47de2f02d8f82c0ac1240329dcd9ce149
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Feb 26 13:02:12 2021 -0700
+
+    Driver: Logan Hsia, Navigator: Mhba Nabhan, Added an incomplete BoardTestsExp class.
+
+commit 0b4813eb37360e6c008f6ae15e9c036c4d83dacc
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Feb 26 12:57:58 2021 -0700
+
+    Driver: Logan Hsia, Navigator: Mhba Nabhan, Added TestBoard class.
+
+commit 5aed050193ab9ffa6e83af3fb68475a04b2d1743
+Author: Logan Hsia <loganhsia@mymail.mines.edu>
+Date:   Fri Feb 26 12:47:49 2021 -0700
+
+    Driver: Logan Hsia, Navigator: Mhba Nabhan, Added TestBoardCell class.
+
+commit cb5a9899b7d3dc3717b05830429f5283becd7fb5
+Author: Mhba Nabhan <57766986+mhbanabhan@users.noreply.github.com>
+Date:   Thu Feb 25 18:37:11 2021 -0700
+
+    Initial commit

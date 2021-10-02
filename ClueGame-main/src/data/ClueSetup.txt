@@ -1,0 +1,27 @@
+// Rooms and room cards
+Room, White Room, W 
+Room, Black Room, B 
+Room, Blue Room, L 
+Room, Purple Room, P 
+Room, Green Room, G 
+Room, Yellow Room, Y 
+Room, Red Room, R 
+Room, Orange Room, O 
+Room, Pink Room, K 
+// Other spaces on the board
+Space, Unused, X 
+Space, Walkway, Z
+// Players
+Player, H, Drake, RED, 25, 8
+Player, C, Kyle, PINK, 7, 0
+Player, C, Brad, WHITE, 14, 0
+Player, C, Jake, YELLOW, 11, 25
+Player, C, Snoop, BLACK, 0, 7
+Player, C, Chad, BLUE, 0, 17
+// Weapons
+Weapon, Stinky Boot
+Weapon, Rusty Fishing Rod
+Weapon, Dirty Plunger
+Weapon, Flamethrower
+Weapon, Da Glock
+Weapon, Magic Wand
